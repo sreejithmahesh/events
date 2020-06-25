@@ -1,0 +1,17 @@
+.card-body{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 100%;
+    min-height: 100px;
+    padding: 20px;     
+}
+
+.card-title{
+    color: darken(#9EAABB,10%);
+    font-size:20px;
+    font-weight: 500;;
+}
+
+.card-title-line{
+    background-color: #9EAABB; 
+    height: 2px;
+}
